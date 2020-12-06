@@ -1,0 +1,32 @@
+C:\Users\Ahmas\Downloads\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot Out Game Moo ICT.csprojAssemblyReference.cache
+C:\Users\Ahmas\Downloads\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot_Out_Game_Moo_ICT.Form1.resources
+C:\Users\Ahmas\Downloads\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot_Out_Game_Moo_ICT.Properties.Resources.resources
+C:\Users\Ahmas\Downloads\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot Out Game Moo ICT.csproj.GenerateResource.cache
+C:\Users\Ahmas\Downloads\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot Out Game Moo ICT.csproj.CoreCompileInputs.cache
+C:\Users\Ayesha\Downloads\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot Out Game Moo ICT.csprojAssemblyReference.cache
+C:\Users\Ayesha\Downloads\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot_Out_Game_Moo_ICT.Form1.resources
+C:\Users\Ayesha\Downloads\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot_Out_Game_Moo_ICT.Properties.Resources.resources
+C:\Users\Ayesha\Downloads\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot Out Game Moo ICT.csproj.GenerateResource.cache
+C:\Users\Ayesha\Downloads\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot Out Game Moo ICT.csproj.CoreCompileInputs.cache
+C:\Users\Ayesha\Downloads\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\bin\Debug\Shoot Out Game Moo ICT.exe.config
+C:\Users\Ayesha\Downloads\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\bin\Debug\Shoot Out Game Moo ICT.exe
+C:\Users\Ayesha\Downloads\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\bin\Debug\Shoot Out Game Moo ICT.pdb
+C:\Users\Ayesha\Downloads\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot Out Game Moo ICT.exe
+C:\Users\Ayesha\Downloads\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot Out Game Moo ICT.pdb
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\bin\Debug\Shoot Out Game Moo ICT.exe.config
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\bin\Debug\Shoot Out Game Moo ICT.exe
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\bin\Debug\Shoot Out Game Moo ICT.pdb
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot Out Game Moo ICT.csprojAssemblyReference.cache
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot_Out_Game_Moo_ICT.Form1.resources
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot_Out_Game_Moo_ICT.Properties.Resources.resources
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot Out Game Moo ICT.csproj.GenerateResource.cache
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot Out Game Moo ICT.csproj.CoreCompileInputs.cache
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot Out Game Moo ICT.exe
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot Out Game Moo ICT.pdb
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot_Out_Game_Moo_ICT.mainmenu.resources
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot_Out_Game_Moo_ICT.Form2.resources
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot_Out_Game_Moo_ICT.Message1.resources
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot_Out_Game_Moo_ICT.Form3.resources
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\obj\Debug\Shoot_Out_Game_Moo_ICT.Message2.resources
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\bin\Debug\mainmenu.mp3
+C:\Users\Ahsan\Desktop\Shoot Out Game Moo ICT\Shoot Out Game Moo ICT\bin\Debug\mainmenu.wav
